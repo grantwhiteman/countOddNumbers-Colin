@@ -1,0 +1,1 @@
+require('./specs/countOddNumbers.spec.js')
